@@ -31,5 +31,4 @@
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umutalb&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Umutalb" />
-  <img src="https://github.com/Umutalb/Umutalb/blob/main/img/Bird%20Wing%20Bottom%20Right.png" alt="Bird Wing Bottom Right" height="160" width="182"/>
 </p>
