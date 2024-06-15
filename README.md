@@ -33,7 +33,3 @@
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umutalb&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Umutalb" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/Umutalb/Umutalb/blob/main/img/istanbul.jpg" alt="Istanbul" width="600" />
-</p>
