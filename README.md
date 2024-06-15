@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Istanbul_skyline_from_Galata_Tower_%28night%29.jpg" alt="Istanbul" width="600" />
+  <img src="https://github.com/Umutalb/Umutalb/blob/main/img/istanbul.jpg" alt="Istanbul" width="600" />
 </p>
