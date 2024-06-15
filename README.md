@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
 <h3 align="center">I am a passionate computer engineering student from Turkey.</h3>
+<h3 align="center">I live in Istanbul.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=umutalb&label=Profile%20views&color=0e75b6&style=flat" alt="umutalb" />
@@ -31,4 +32,8 @@
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umutalb&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Umutalb" />
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Istanbul_skyline_from_Galata_Tower_%28night%29.jpg" alt="Istanbul" width="600" />
 </p>
