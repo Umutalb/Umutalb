@@ -17,30 +17,11 @@
 ![](https://komarev.com/ghpvc/?username=Umutalb&color=blue)
 <div align="center">
  <a href="https://github.com/Umutalb">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Umut+Albayrak+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Umut+Albayrak+%e2%9c%a8;%f0%9f%93%9a+Computer+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
 
 <img src="https://github.com/Umutalb/Umutalb/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
-
-
-<h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
-
-- 🔭 I’m currently working on **React**
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Umutalb?theme=unicorn)](https://leetcode.com/Umutalb/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="https://linkedin.com/in/Umut Albayrak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="çağatay akkaş" height="30" width="40" /></a>
-<a href="https://medium.com/@Umutalb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagatayakkas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Umut Albayrak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="çağatay akkaş" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Umutalb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cagatayakkas" height="30" width="40" /></a>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-</p>
-
-
 
 <!--
 <details>
