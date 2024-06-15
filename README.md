@@ -35,5 +35,6 @@
 </p>
 
 <p align="left">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Hello World" width="300" />
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="300" />
 </p>
