@@ -35,6 +35,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="Coding" width="300" />
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Programming" width="300" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding" width="300" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Programming" width="300" />
 </p>
