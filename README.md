@@ -24,42 +24,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary> 
 -->
-# 💻 Languages and Tools:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=for-the-badge)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+)
 
 
-# Github Stats
-
- <br />
- 
-  <p align="center">
-  <a>
-   
-     
-  </a>
-</p>
-
-  
-<br />
-
-
- 
- <p align="center">
-  <a>
-   
-   
-</p>
- 
-
- 
- <br />
- 
-  
-  
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/Umutalb/Umutalb/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+ithub.com/Umutalb/Umutalb/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umutalb&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Umutalb" />
     <img heigth="160" width="182" src="https://github.com/Umutalb/Umutalb/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
