@@ -7,6 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=umutalb&label=Profile%20views&color=0e75b6&style=flat" alt="umutalb" />
 </p>
 
+- 🧑‍🎓 I am a first-year university student.
+
 - 🌱 I’m currently learning **C++ and Python.**
 
 - 📝 I regularly write code on [GitHub](https://github.com/Umutalb).
