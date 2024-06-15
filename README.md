@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
 <h3 align="center">I am a passionate computer engineering student from Turkey.</h3>
-
+ &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=umutalb&label=Profile%20views&color=0e75b6&style=flat" alt="umutalb" />
 </p>
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **C++ and Python.**
 
 - 📝 I regularly write code on [GitHub](https://github.com/Umutalb).
-
+ &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="left"></p>
 
 <div align="center">
@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
+ &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umutalb&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Umutalb" />
 </p>
