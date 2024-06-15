@@ -51,9 +51,7 @@
  <p align="center">
   <a>
    
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Umutalb&theme=material-palenight&hide_border=false" alt="Umutalb" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/Umutalb/Umutalb/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
+   
 </p>
  
 
