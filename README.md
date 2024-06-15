@@ -7,7 +7,7 @@
 
 - 📝 I regularly write code on. [https://github.com/Umutalb](https://github.com/Umutalb)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
