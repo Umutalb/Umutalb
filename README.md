@@ -10,8 +10,6 @@
 
 - 📝 I regularly write code on [GitHub](https://github.com/Umutalb).
 
-<p align="left"></p>
-
 <div align="center">
   <a href="https://github.com/Umutalb">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Umut+Albayrak+%e2%9c%a8;%f0%9f%93%9a+Computer+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
@@ -32,6 +30,15 @@
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umutalb&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Umutalb" />
+</p>
+
+### 📊 GitHub Stats:
+![Umut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umutalb&show_icons=true&theme=radical)
+
+### 🔗 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="40" /></a>
 </p>
 
 <p align="left">
