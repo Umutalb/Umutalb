@@ -31,16 +31,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=for-the-badge)
 
-<!-- END YOUTUBE-CARDS -->
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umutalb/Umutalb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Umutalb/Umutalb/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Umutalb/Umutalb/output/github-contribution-grid-snake.svg">
-</picture>
-
-
 
 # Github Stats
 
@@ -48,9 +38,9 @@
  
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/Umutalb/blob/main/img/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/Umutalb/Umutalb/blob/main/img/Bird%20Wing%20Left.png">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Umutalb&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Umutalb" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/Umutalb/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/Umutalb/Umutalb/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
 
@@ -77,7 +67,7 @@
   <a>
     <img heigth="160" width="182" src="https://github.com/Umutalb/Umutalb/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umutalb&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Umutalb" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/Umutalb/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/Umutalb/Umutalb/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
  
