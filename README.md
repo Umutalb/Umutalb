@@ -35,6 +35,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding" width="300" />
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Programming" width="300" />
+  <img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)" alt="Coding" width="300" />
+ 
 </p>
