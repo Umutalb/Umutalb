@@ -14,8 +14,8 @@
 📝 I regularly write code on [GitHub](https://github.com/Umutalb).
 
 ### My Projects
-- [Phone Book Application](https://github.com/Umutalb/PhoneBookApp): A simple phone book application implemented in C++ for managing contacts with functionalities to add, delete, and search contacts.
-- [Turkish ID Validator](https://github.com/Umutalb/TurkishIDValidator): A C++ program to validate Turkish Republic identification numbers using a specific algorithm.
+- [Phone Book Application](https://github.com/Umutalb/PhoneBook): A simple phone book application implemented in C++ for managing contacts with functionalities to add, delete, and search contacts.
+- [Turkish ID Number Validator](https://github.com/Umutalb/TurkishIdNumberValidator): A C++ program to validate Turkish Republic identification numbers using a specific algorithm.
 - [Job Application Checker](https://github.com/Umutalb/JobApplicationChecker): A recruitment interview project developed using C++.
 <p align="left"></p>
 <div align="center">
