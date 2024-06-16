@@ -1,23 +1,22 @@
 <h1 align="center" style="color:#3498db;">Hi 👋, I'm Umut</h1>
 <h3 align="center" style="color:#e74c3c;">I am a passionate computer engineering student from Turkey.</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=umutalb&label=Profile%20views&color=0e75b6&style=flat" alt="umutalb" />
 </p>
 
-<p style="color:#e74c3c;">
+<p style="color:#3498db;">
   🌉 I live in Istanbul.
 </p>
 
-<p style="color:#e74c3c;">
+<p style="color:#3498db;">
   🧑‍🎓 I am a first-year university student.
 </p>
 
-<p style="color:#e74c3c;">
+<p style="color:#3498db;">
   🌱 I’m currently learning <strong>C++</strong> and <strong>Python</strong>.
 </p>
 
-<p style="color:#e74c3c;">
+<p style="color:#3498db;">
   📝 I regularly write code on <a href="https://github.com/Umutalb" style="color:#3498db;">GitHub</a>.
 </p>
 
@@ -45,7 +44,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umutalb&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Umutalb" />
 </p>
