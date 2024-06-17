@@ -13,6 +13,11 @@
 
 📝 I regularly write code on [GitHub](https://github.com/Umutalb).
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/umut-albayrak-636461314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umut-albayrak-636461314/" height="30" width="40" /></a>
+</p>
+
 ### My Projects
 - [Phone Book Application](https://github.com/Umutalb/PhoneBook) : A simple phone book application implemented in C++ for managing contacts with functionalities to add, delete, and search contacts.
 - [Turkish ID Number Validator](https://github.com/Umutalb/TurkishIdNumberValidator) : A C++ program to validate Turkish Republic identification numbers using a specific algorithm.
