@@ -22,6 +22,8 @@
 - [Phone Book Application](https://github.com/Umutalb/PhoneBook) : A simple phone book application implemented in C++ for managing contacts with functionalities to add, delete, and search contacts.
 - [Turkish ID Number Validator](https://github.com/Umutalb/TurkishIdNumberValidator) : A C++ program to validate Turkish Republic identification numbers using a specific algorithm.
 - [Job Application Checker](https://github.com/Umutalb/JobApplicationChecker) : A recruitment interview project developed using C++.
+- [Simple Calculator](https://github.com/Umutalb/SimpleCalculator) : This console-based calculator written in C++ performs arithmetic operations.
+
 <p align="left"></p>
 <div align="center">
  
