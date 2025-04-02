@@ -35,11 +35,11 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
-/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
 </p>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umutalb&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Umutalb" />
