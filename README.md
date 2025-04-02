@@ -9,7 +9,7 @@
 
 🧑‍🎓 I am a first-year university student.
 
-🌱 I’m currently learning **C++ and Python.**
+🌱 I’m currently learning **C++ and C#.**
 
 📝 I regularly write code on [GitHub](https://github.com/Umutalb).
 
