@@ -1,175 +1,99 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Umut;Backend+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%92%BB" alt="Typing SVG" />
-</div>
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Umut</h1>
+<h3 align="center">Computer Engineering student • Backend-focused • Istanbul, TR</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=umutalb&label=Profile%20views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/umutalb?style=for-the-badge&color=3B82F6" alt="Followers" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umutalb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/Umutalb?tab=followers">
+    <img src="https://img.shields.io/github/followers/Umutalb?label=Follow&style=flat" alt="followers" />
+  </a>
+  <a href="https://github.com/Umutalb?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-active-0e75b6.svg?style=flat" alt="repos" />
+  </a>
+</p>
 
-<br>
-
-<img align="right" src="https://github.com/Umutalb/Umutalb/blob/main/img/EatSleepCodeRepeat.gif" width="350" alt="Coding GIF"/>
-
-### 💫 About Me
-
-```javascript
-const umut = {
-    location: "Istanbul, Turkey 🌉",
-    education: "Computer Engineering Student 🎓",
-    currentYear: "3rd Year",
-    currentlyLearning: ["C#", "ASP.NET Core", "Firebase"],
-    focusArea: "Backend Development",
-    goal: "Building scalable Web APIs & secure systems",
-    funFact: "I debug with coffee ☕"
-};
-```
-
-<br clear="right"/>
-
-<div align="center">
-
-## 🛠️ Tech Stack & Tools
-
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cs" width="65" height="65" alt="C#" />
-        <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
-        <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt=".NET" />
-        <br>.NET Core
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
-        <br>Firebase
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-        <br>Git
-    </td>
-</tr>
-</table>
-
-</div>
+<!-- Tech badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+</p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 🚀 Featured Projects
-
+<!-- Two-column: About & Links -->
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="58%" valign="top">
 
-### ❤️ DatingApp2025
-**🔥 Work in Progress**
-```
-• Tinder-like dating application
-• ASP.NET Core Web API
-• Firebase integration
-• Real-time features
-```
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/Umutalb/DatingApp2025)
+### 👨‍💻 About Me
+- 🌉 Based in **Istanbul, Turkey**
+- 🎓 **3rd-year** Computer Engineering student
+- 🌱 Learning **C#, ASP.NET Core, Firebase**
+- 🧭 Interested in **Web APIs, clean architecture, security**
+- 📝 I share my work on **[GitHub](https://github.com/Umutalb)**  
+- 🎯 Goal: Build **scalable & secure** backend systems
 
-</td>
-<td width="50%">
+> _“Write it clean, test it early, ship it safely.”_
 
-### 📒 Phone Book App
-**💼 Contact Management**
-```
-• Add, Delete, Search contacts
-• C++ implementation
-• Console-based interface
-• Data persistence
-```
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/Umutalb/PhoneBook)
+  </td>
+  <td width="42%" valign="top">
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### 🔗 Connect
+<p>
+  <a href="https://www.linkedin.com/in/umut-albayrak24/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Umutalb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-### 🆔 Turkish ID Validator
-**🔒 Security Algorithm**
-```
-• Turkish ID number validation
-• Mathematical algorithm
-• Error handling
-• Input validation
-```
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/Umutalb/TurkishIdNumberValidator)
-
-</td>
-<td width="50%">
-
-### 🧑‍💼 Job Application Checker
-**📋 HR Solution**
-```
-• Interview process automation
-• Candidate evaluation
-• C++ based system
-• Recruitment tools
-```
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/Umutalb/JobApplicationChecker)
-
-</td>
-</tr>
+### 🧰 Tooling Focus
+- RESTful API design
+- Auth & JWT
+- EF Core & migrations
+- CI basics (GitHub Actions)
+  </td>
+  </tr>
 </table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Umutalb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umutalb&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umutalb&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-
-</td>
-</tr>
-</table>
-</div>
 
 ---
 
-<div align="center">
+<!-- Projects: visual cards + tiny list -->
+### 🚀 Featured Projects
 
-### 🤝 Let's Connect!
+<!-- Repo cards (visual) -->
+<p align="center">
+  <a href="https://github.com/Umutalb/DatingApp2025">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Umutalb&repo=DatingApp2025&theme=material-palenight" />
+  </a>
+  <a href="https://github.com/Umutalb/PhoneBook">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Umutalb&repo=PhoneBook&theme=material-palenight" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/umut-albayrak24/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Umutalb">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<!-- Compact bullets -->
+- 🆔 [TurkishIdNumberValidator](https://github.com/Umutalb/TurkishIdNumberValidator) — Turkish ID validation (C++)  
+- 🧑‍💼 [JobApplicationChecker](https://github.com/Umutalb/JobApplicationChecker) — Interview helper (C++)  
+- ➗ [SimpleCalculator](https://github.com/Umutalb/SimpleCalculator) — Console calculator (C++)
 
-<br><br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
+<!-- Stats side-by-side -->
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Umutalb&show_icons=true&count_private=true&theme=material-palenight&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umutalb&layout=compact&theme=material-palenight&hide_border=false" height="170" />
+</p>
 
-</div>
+---
+
+<!-- Closing GIF (single, centered) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" alt="Hello World" />
+</p>
