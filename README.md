@@ -167,13 +167,6 @@ const umut = {
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umutalb&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umutalb&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </td>
@@ -182,7 +175,7 @@ const umut = {
 </div>
 
 ---
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
-</div>
 </div>
