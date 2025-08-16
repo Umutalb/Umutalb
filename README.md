@@ -1,50 +1,62 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
-<h3 align="center">I am a passionate computer engineering 💻 student from Turkey.</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<p align="left">
+<h3 align="center">A passionate Computer Engineering student & aspiring Backend Developer from Turkey</h3>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=umutalb&label=Profile%20views&color=0e75b6&style=flat" alt="umutalb" />
 </p>
 
-🌉 I live in Istanbul.
+---
 
-🧑‍🎓 I am a first-year university student.
+### 👨‍💻 About Me  
+- 🌉 I live in **Istanbul, Turkey**  
+- 🎓 I’m a **2nd-year Computer Engineering student**  
+- 🌱 Currently learning **C#, ASP.NET Core & Firebase**  
+- 📝 I regularly share projects on [GitHub](https://github.com/Umutalb)  
+- 🎯 My goal: **Build scalable Web APIs and secure backend systems**  
 
-🌱 I’m currently learning **C++ and C#.**
+---
 
-📝 I regularly write code on [GitHub](https://github.com/Umutalb).
-
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect with Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/umut-albayrak-636461314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umut-albayrak-636461314/" height="30" width="40" /></a>
-</p>
-
-### My Projects
-- [Phone Book Application](https://github.com/Umutalb/PhoneBook) : A simple phone book application implemented in C++ for managing contacts with functionalities to add, delete, and search contacts.
-- [Turkish ID Number Validator](https://github.com/Umutalb/TurkishIdNumberValidator) : A C++ program to validate Turkish Republic identification numbers using a specific algorithm.
-- [Job Application Checker](https://github.com/Umutalb/JobApplicationChecker) : A recruitment interview project developed using C++.
-- [Simple Calculator](https://github.com/Umutalb/SimpleCalculator) : This console-based calculator written in C++ performs arithmetic operations.
-
-<p align="left"></p>
-<div align="center">
- 
+  <a href="https://www.linkedin.com/in/umut-albayrak24/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
-<img src="https://github.com/Umutalb/Umutalb/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width="200" height="200" align="right">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <a href="https://github.com/Umutalb" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+---
+
+### 🚀 My Projects  
+- 📒 [Phone Book Application](https://github.com/Umutalb/PhoneBook) – Manage contacts (Add/Delete/Search) with C++  
+- 🆔 [Turkish ID Number Validator](https://github.com/Umutalb/TurkishIdNumberValidator) – Validate Turkish ID numbers with algorithms (C++)  
+- 🧑‍💼 [Job Application Checker](https://github.com/Umutalb/JobApplicationChecker) – Recruitment interview project in C++  
+- ➗ [Simple Calculator](https://github.com/Umutalb/SimpleCalculator) – Console-based calculator with arithmetic operations  
+- ❤️ **[DatingApp2025](https://github.com/Umutalb/DatingApp2025)** *(Work in progress)* – A Tinder-like project with **ASP.NET Core Web API + Firebase**  
+
+---
+
+### 🛠️ Languages & Tools  
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umutalb&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Umutalb" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET Core"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
 </p>
+
+---
+
+### 📊 GitHub Stats  
 <p align="left">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Hello World" width="300" />
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Umutalb&theme=material-palenight&hide_border=false&count_private=true&show_icons=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umutalb&theme=material-palenight&hide_border=false&layout=compact" height="180"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="250" alt="Hello World" />
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" alt="Coding" />
+  <img src="https://github.com/Umutalb/Umutalb/blob/main/img/EatSleepCodeRepeat.gif" width="200" alt="Eat Sleep Code Repeat" />
 </p>
