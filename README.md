@@ -129,6 +129,45 @@ const umut = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 💼 Skills & Proficiency
+
+<div align="center">
+
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| **C++** | ████████░░ 80% | 2+ years |
+| **C#** | ███████░░░ 70% | 1+ year |
+| **ASP.NET Core** | ██████░░░░ 60% | Learning |
+| **Firebase** | █████░░░░░ 50% | Learning |
+| **Git/GitHub** | ████████░░ 80% | 2+ years |
+| **Problem Solving** | █████████░ 90% | Academic Projects |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Umutalb&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Activity
+
+<img src="https://github.com/Umutalb/Umutalb/blob/output/snake.svg" alt="Snake animation" />
+
+*Note: If the snake animation doesn't appear, you'll need to set up GitHub Actions in your profile repository*
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -158,6 +197,32 @@ const umut = {
 ---
 
 <div align="center">
+
+## 📈 Professional Development
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Focus-Backend_Development-blue?style=for-the-badge" />
+<br><strong>Current Focus</strong>
+<br>Building scalable web APIs
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Goal-Senior_Developer-green?style=for-the-badge" />
+<br><strong>Career Goal</strong>
+<br>Full-stack expertise by 2026
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Learning-Always-orange?style=for-the-badge" />
+<br><strong>Growth Mindset</strong>
+<br>Continuous learning & improvement
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ### 🤝 Let's Connect!
 
