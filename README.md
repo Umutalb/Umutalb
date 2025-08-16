@@ -1,10 +1,26 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Umut;Backend+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Umut;Backend+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=umutalb&label=Profile%20views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/umutalb?style=for-the-badge&color=3B82F6" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=umutalb&label=Profile%20views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/umutalb?style=for-the-badge&color=3B82F6" alt="Followers" />
+</div>
+
+<div align="center">
+
+### 📧 Contact Me
+
+<a href="mailto:umut.albayrakk24@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/umut-albayrak24/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Umutalb">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
 <br>
@@ -13,7 +29,7 @@
 
 ### 💫 About Me
 
-```javascript
+```jsx
 const umut = {
     location: "Istanbul, Turkey 🌉",
     education: "Computer Engineering Student 🎓",
@@ -129,40 +145,11 @@ const umut = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 Skills & Proficiency
-
-<div align="center">
-
-| Technology | Proficiency | Experience |
-|------------|-------------|------------|
-| **C++** | ████████░░ 80% | 2+ years |
-| **C#** | ███████░░░ 70% | 1+ year |
-| **ASP.NET Core** | ██████░░░░ 60% | Learning |
-| **Firebase** | █████░░░░░ 50% | Learning |
-| **Git/GitHub** | ████████░░ 80% | 2+ years |
-| **Problem Solving** | █████████░ 90% | Academic Projects |
-
-</div>
-
----
-
 <div align="center">
 
 ## 🏆 GitHub Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=Umutalb&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Activity
-
-<img src="https://github.com/Umutalb/Umutalb/blob/output/snake.svg" alt="Snake animation" />
-
-*Note: If the snake animation doesn't appear, you'll need to set up GitHub Actions in your profile repository*
 
 </div>
 
@@ -195,48 +182,6 @@ const umut = {
 </div>
 
 ---
-
-<div align="center">
-
-## 📈 Professional Development
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Focus-Backend_Development-blue?style=for-the-badge" />
-<br><strong>Current Focus</strong>
-<br>Building scalable web APIs
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Goal-Senior_Developer-green?style=for-the-badge" />
-<br><strong>Career Goal</strong>
-<br>Full-stack expertise by 2026
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Learning-Always-orange?style=for-the-badge" />
-<br><strong>Growth Mindset</strong>
-<br>Continuous learning & improvement
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-### 🤝 Let's Connect!
-
-<a href="mailto:umut.albayrakk24@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/umut-albayrak24/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Umutalb">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
 
