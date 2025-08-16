@@ -47,6 +47,8 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Umutalb&theme=material-palenight&hide_border=false&count_private=true&show_icons=true" height="180"/>
@@ -56,7 +58,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="250" alt="Hello World" />
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" alt="Coding" />
-  <img src="https://github.com/Umutalb/Umutalb/blob/main/img/EatSleepCodeRepeat.gif" width="200" alt="Eat Sleep Code Repeat" />
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" alt="Hello World" />
 </p>
+
