@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me  
 - 🌉 I live in **Istanbul, Turkey**  
-- 🎓 I’m a **2nd-year Computer Engineering student**  
+- 🎓 I’m a **3nd-year Computer Engineering student**  
 - 🌱 Currently learning **C#, ASP.NET Core & Firebase**  
 - 📝 I regularly share projects on [GitHub](https://github.com/Umutalb)  
 - 🎯 My goal: **Build scalable Web APIs and secure backend systems**  
