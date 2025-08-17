@@ -17,8 +17,8 @@
 <a href="https://www.linkedin.com/in/umut-albayrak24/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/Umutalb">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Umutalb?tab=repositories">
+<img src="https://img.shields.io/badge/REPO-View_Code-blue?style=for-the-badge&logo=github" />
 </a>
 
 </div>
