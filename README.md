@@ -104,12 +104,12 @@ Show Image
 </tr>
 <tr>
 <td width="50%">
-🔢 Prime Number Checker
-⚡ Optimized Algorithm
-- Mathematical optimization (√n)
-- Input validation & edge cases
-- Efficient prime detection
-- Clean console interface
+🆔 Turkish ID Validator
+🔒 Security Algorithm
+- Turkish ID number validation
+- Mathematical algorithm
+- Error handling
+- Input validation
 Show Image
 </td>
 <td width="50%">
@@ -123,6 +123,8 @@ Show Image
 </td>
 </tr>
 </table>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
