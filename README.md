@@ -96,9 +96,9 @@ Show Image
 🎲 Number Guessing Game
 🎮 Interactive Game
 - Random number generation (1-100)
-- Input validation & range checking
-- Attempt tracking system
-- Quit anytime + Play again features
+- Input validation & tracking
+- Quit anytime functionality
+- Play again feature
 Show Image
 </td>
 </tr>
@@ -119,26 +119,6 @@ Show Image
 - Case-insensitive checking
 - Quit anytime functionality
 - User-friendly interface
-Show Image
-</td>
-</tr>
-<tr>
-<td width="50%">
-🆔 Turkish ID Validator
-🔒 Security Algorithm
-- Turkish ID number validation
-- Mathematical algorithm
-- Error handling
-- Input validation
-Show Image
-</td>
-<td width="50%">
-🔢 Fibonacci Generator
-📊 Sequence Generation
-- Efficient iterative algorithm
-- Edge case handling (1-2 terms)
-- Input validation
-- Clean output formatting
 Show Image
 </td>
 </tr>
