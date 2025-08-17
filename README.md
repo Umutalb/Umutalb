@@ -99,7 +99,7 @@ const umut = {
 ```
 
 <a href="[https://github.com/Umutalb](https://github.com/Umutalb/DatingApp2025)">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/REPO-View_Code-blue?style=for-the-badge&logo=github" />
 </a>
 
 </td>
