@@ -117,7 +117,7 @@ const umut = {
 
 ```
 
-<a href="[https://github.com/Umutalb/Number-Guessing-Game)">
+<a href="https://github.com/Umutalb/Number-Guessing-Game">
 <img src="https://img.shields.io/badge/REPO-View_Code-blue?style=for-the-badge&logo=github" />
 </a>
 
@@ -138,7 +138,7 @@ const umut = {
 
 ```
 
-<a href="[https://github.com/Umutalb/Palindrome-Checker)">
+<a href="https://github.com/Umutalb/Palindrome-Checker">
 <img src="https://img.shields.io/badge/REPO-View_Code-blue?style=for-the-badge&logo=github" />
 </a>
 
@@ -157,7 +157,7 @@ const umut = {
 
 ```
 
-<a href="[https://github.com/Umutalb/Prime-Number-Checker)">
+<a href="https://github.com/Umutalb/Prime-Number-Checker">
 <img src="https://img.shields.io/badge/REPO-View_Code-blue?style=for-the-badge&logo=github" />
 </a>
 
