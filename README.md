@@ -98,7 +98,9 @@ const umut = {
 
 ```
 
-[Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)
+<a href="[https://github.com/Umutalb](https://github.com/Umutalb/DatingApp2025)">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 <td width="50%">
@@ -115,7 +117,9 @@ const umut = {
 
 ```
 
-[Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)
+<a href="[https://github.com/Umutalb/PhoneBook)">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
@@ -134,7 +138,9 @@ const umut = {
 
 ```
 
-[Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)
+<a href="[https://github.com/Umutalb/TurkishIdNumberValidator)">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 <td width="50%">
@@ -151,7 +157,9 @@ const umut = {
 
 ```
 
-[Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)
+<a href="[https://github.com/Umutalb/JobApplicationChecker)">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
