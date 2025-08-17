@@ -105,19 +105,19 @@ const umut = {
 </td>
 <td width="50%">
 
-### 📒 Phone Book App
+### 🎲 Number Guessing Game
 
-**💼 Contact Management**
-
-```
-• Add, Delete, Search contacts
-• C++ implementation
-• Console-based interface
-• Data persistence
+**🎮 Interactive Game**
 
 ```
+• Random number generation (1-100)
+• Input validation & tracking
+• Quit anytime functionality
+• Play again feature
 
-<a href="[https://github.com/Umutalb/PhoneBook)">
+```
+
+<a href="[https://github.com/Umutalb/Number-Guessing-Game)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -126,38 +126,38 @@ const umut = {
 <tr>
 <td width="50%">
 
-### 🆔 Turkish ID Validator
+### 🔄 Palindrome Checker
 
-**🔒 Security Algorithm**
-
-```
-• Turkish ID number validation
-• Mathematical algorithm
-• Error handling
-• Input validation
+**📝 String Processing**
 
 ```
+• Manual reverse algorithm
+• Case-insensitive checking
+• Quit anytime functionality
+• User-friendly interface
 
-<a href="[https://github.com/Umutalb/TurkishIdNumberValidator)">
+```
+
+<a href="[https://github.com/Umutalb/Palindrome-Checker)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 <td width="50%">
 
-### 🧑‍💼 Job Application Checker
+### 🧑‍💼 🔢 Prime Number Checker
 
-**📋 HR Solution**
-
-```
-• Interview process automation
-• Candidate evaluation
-• C++ based system
-• Recruitment tools
+**⚡ Optimized Algorithm**
 
 ```
+• Algorithm optimization (√n complexity)
+• Mathematical thinking
+• Performance awareness
+• Interview favorite
 
-<a href="[https://github.com/Umutalb/JobApplicationChecker)">
+```
+
+<a href="[https://github.com/Umutalb/Prime-Number-Checker)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
