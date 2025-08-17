@@ -80,54 +80,86 @@ const umut = {
 
 <div align="center">
 
-🚀 Featured Projects
+## 🚀 Featured Projects
+
 <table>
 <tr>
 <td width="50%">
-❤️ DatingApp2025
-🔥 Work in Progress
-- Tinder-like dating application
-- ASP.NET Core Web API
-- Firebase integration
-- Real-time features
-Show Image
+
+### ❤️ DatingApp2025
+
+**🔥 Work in Progress**
+
+```
+• Tinder-like dating application
+• ASP.NET Core Web API
+• Firebase integration
+• Real-time features
+
+```
+
+[Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)
+
 </td>
 <td width="50%">
-🎲 Number Guessing Game
-🎮 Interactive Game
-- Random number generation (1-100)
-- Input validation & tracking
-- Quit anytime functionality
-- Play again feature
-Show Image
+
+### 📒 Phone Book App
+
+**💼 Contact Management**
+
+```
+• Add, Delete, Search contacts
+• C++ implementation
+• Console-based interface
+• Data persistence
+
+```
+
+[Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)
+
 </td>
 </tr>
 <tr>
 <td width="50%">
-🆔 Turkish ID Validator
-🔒 Security Algorithm
-- Turkish ID number validation
-- Mathematical algorithm
-- Error handling
-- Input validation
-Show Image
+
+### 🆔 Turkish ID Validator
+
+**🔒 Security Algorithm**
+
+```
+• Turkish ID number validation
+• Mathematical algorithm
+• Error handling
+• Input validation
+
+```
+
+[Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)
+
 </td>
 <td width="50%">
-🔄 Palindrome Checker
-📝 String Processing
-- Manual reverse algorithm
-- Case-insensitive checking
-- Quit anytime functionality
-- User-friendly interface
-Show Image
+
+### 🧑‍💼 Job Application Checker
+
+**📋 HR Solution**
+
+```
+• Interview process automation
+• Candidate evaluation
+• C++ based system
+• Recruitment tools
+
+```
+
+[Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)
+
 </td>
 </tr>
 </table>
+
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
 
 ## 🏆 GitHub Achievements
 
