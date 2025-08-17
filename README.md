@@ -80,71 +80,71 @@ const umut = {
 
 <div align="center">
 
-## 🚀 Featured Projects
-
+🚀 Featured Projects
 <table>
 <tr>
 <td width="50%">
-
-### ❤️ DatingApp2025
-**🔥 Work in Progress**
-```
-• Tinder-like dating application
-• ASP.NET Core Web API
-• Firebase integration
-• Real-time features
-```
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/Umutalb/DatingApp2025)
-
+❤️ DatingApp2025
+🔥 Work in Progress
+- Tinder-like dating application
+- ASP.NET Core Web API
+- Firebase integration
+- Real-time features
+Show Image
 </td>
 <td width="50%">
-
-### 📒 Phone Book App
-**💼 Contact Management**
-```
-• Add, Delete, Search contacts
-• C++ implementation
-• Console-based interface
-• Data persistence
-```
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/Umutalb/PhoneBook)
-
+🎲 Number Guessing Game
+🎮 Interactive Game
+- Random number generation (1-100)
+- Input validation & range checking
+- Attempt tracking system
+- Quit anytime + Play again features
+Show Image
 </td>
 </tr>
 <tr>
 <td width="50%">
-
-### 🆔 Turkish ID Validator
-**🔒 Security Algorithm**
-```
-• Turkish ID number validation
-• Mathematical algorithm
-• Error handling
-• Input validation
-```
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/Umutalb/TurkishIdNumberValidator)
-
+🔢 Prime Number Checker
+⚡ Optimized Algorithm
+- Mathematical optimization (√n)
+- Input validation & edge cases
+- Efficient prime detection
+- Clean console interface
+Show Image
 </td>
 <td width="50%">
-
-### 🧑‍💼 Job Application Checker
-**📋 HR Solution**
-```
-• Interview process automation
-• Candidate evaluation
-• C++ based system
-• Recruitment tools
-```
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/Umutalb/JobApplicationChecker)
-
+🔄 Palindrome Checker
+📝 String Processing
+- Manual reverse algorithm
+- Case-insensitive checking
+- Quit anytime functionality
+- User-friendly interface
+Show Image
+</td>
+</tr>
+<tr>
+<td width="50%">
+🆔 Turkish ID Validator
+🔒 Security Algorithm
+- Turkish ID number validation
+- Mathematical algorithm
+- Error handling
+- Input validation
+Show Image
+</td>
+<td width="50%">
+🔢 Fibonacci Generator
+📊 Sequence Generation
+- Efficient iterative algorithm
+- Edge case handling (1-2 terms)
+- Input validation
+- Clean output formatting
+Show Image
 </td>
 </tr>
 </table>
-
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
 
 ## 🏆 GitHub Achievements
