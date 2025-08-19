@@ -9,8 +9,11 @@
 
 <div align="center">
 
-### 📧 Contact Me
+### 🌐 Connect With Me
 
+<a href="https://umutalbayrak.dev/">
+<img src="https://img.shields.io/badge/Portfolio-umutalbayrak.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 <a href="mailto:umut.albayrakk24@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -32,6 +35,7 @@
 ```jsx
 const umut = {
     location: "Istanbul, Turkey 🌉",
+    portfolio: "https://umutalbayrak.dev",
     education: "Computer Engineering Student 🎓",
     currentYear: "3rd Year",
     currentlyLearning: ["C#", "ASP.NET Core", "Firebase"],
