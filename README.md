@@ -14,8 +14,7 @@
 <a href="https://umutalbayrak.dev/">
 <img src="https://img.shields.io/badge/Portfolio-umutalbayrak.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-
-<a [href="mailto:umut.albayrakk24@gmail.com](mailto:href=%22mailto:umut.albayrakk24@gmail.com)">
+<a href="mailto:umut.albayrakk24@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/umut-albayrak24/">
@@ -24,6 +23,9 @@
 <a href="https://github.com/Umutalb?tab=repositories">
 <img src="https://img.shields.io/badge/REPO-View_Code-blue?style=for-the-badge&logo=github" />
 </a>
+</div>
+<br>
+<img align="right" src="https://github.com/Umutalb/Umutalb/blob/main/img/EatSleepCodeRepeat.gif" width="350" alt="Coding GIF"/>
 
 </div>
 
