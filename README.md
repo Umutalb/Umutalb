@@ -208,6 +208,11 @@ const umut = {
 </table>
 </div>
 
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Umutalb&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</div>
+
 ---
 
 <div align="center">
