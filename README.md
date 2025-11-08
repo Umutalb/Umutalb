@@ -183,6 +183,12 @@ const umut = {
 
 ---
 
+## 📜 Certifications
+
+[![HackerRank C# Basic](https://img.shields.io/badge/HackerRank-C%23%20Basic-2EA44F?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/2317d5e24fe8)
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
