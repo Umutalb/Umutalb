@@ -209,12 +209,15 @@ const umut = {
 </div>
 
 <br>
+
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Umutalb&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Umutalb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" />
 </div>
